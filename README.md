@@ -1,7 +1,7 @@
 # PyBites
 
 <p align="center">
-  <img src="https://codechalleng.es/static/img/honors/yellow.234d8370bd62.png" />
+  <img src="https://codechalleng.es/static/img/honors/orange.73422678956e.png" />
 </p>
 
 My solutions of Python coding challenges (PyBites) at [codechalleng.es](https://codechalleng.es/).
