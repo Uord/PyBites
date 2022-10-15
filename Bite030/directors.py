@@ -56,4 +56,5 @@ def get_average_scores(directors):
     for director, movies in directors.items():
         director_scores.append((director, calc_mean_score(movies)))
     director_scores.sort(key=lambda x: x[1], reverse=True)
+    
     return director_scores
