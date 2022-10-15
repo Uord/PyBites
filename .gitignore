@@ -17,3 +17,6 @@
 # End of https://www.gitignore.io/api/visualstudiocode
 
 
+Bite030/movie_metadata.csv
+.gitignore
+
