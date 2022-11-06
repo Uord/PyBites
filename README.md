@@ -43,7 +43,7 @@ My solutions of Python coding challenges (PyBites) at [codechalleng.es](https://
 - [x] [2.6 - Write your own Data Class](https://codechalleng.es/bites/154/) [***Solution***](https://github.com/Uord/PyBites/tree/master/Bite154)
 - [ ] [2.7 - Complete a tox ini file parser class](https://codechalleng.es/bites/166/)
 - [x] [2.8 - Multiple inheritance (__mro__)](https://codechalleng.es/bites/199/) [***Solution***](https://github.com/Uord/PyBites/tree/master/Bite199)
-- [x] [2.9 - Alternative constructors](https://codechalleng.es/bites/313/) [***Solution***](https://github.com/Uord/PyBites/tree/master/Bite%20313)
+- [x] [2.9 - Alternative constructors](https://codechalleng.es/bites/313/) [***Solution***](https://github.com/Uord/PyBites/tree/master/Bite313)
 - [x] [3.1 - Enrich a class with dunder methods](https://codechalleng.es/bites/11/) [***Solution***](https://github.com/Uord/PyBites/tree/master/Bite011)
 - [x] [3.2 - Write a context manager](https://codechalleng.es/bites/20/) [***Solution***](https://github.com/Uord/PyBites/tree/master/Bite020)
 - [x] [3.3 - ABC's and class inheritance](https://codechalleng.es/bites/24/) [***Solution***](https://github.com/Uord/PyBites/tree/master/Bite024)
