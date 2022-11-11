@@ -29,7 +29,7 @@ My solutions of Python coding challenges (PyBites) at [codechalleng.es](https://
 - [ ] [3.1 - Marvel data analysis](https://codechalleng.es/bites/124/)
 - [ ] [3.2 - Record Breakers](https://codechalleng.es/bites/145/)
 - [x] [3.3 - Analyze McDonald's food data](https://codechalleng.es/bites/170/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite170)
-- [ ] [3.4 - Analyze sales data with pandas](https://codechalleng.es/bites/183/)
+- [x] [3.4 - Analyze sales data with pandas](https://codechalleng.es/bites/183/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite183)
 - [ ] [3.5 - Generating sales reports from Github data](https://codechalleng.es/bites/281/)
 
 ### Object Oriented Programming
