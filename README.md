@@ -48,7 +48,7 @@ My solutions of Python coding challenges (PyBites) at [codechalleng.es](https://
 - [x] [3.1 - Enrich a class with dunder methods](https://codechalleng.es/bites/11/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite011)
 - [x] [3.2 - Write a context manager](https://codechalleng.es/bites/20/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite020)
 - [x] [3.3 - ABC's and class inheritance](https://codechalleng.es/bites/24/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite024)
-- [ ] [3.4 - Matrix multiplication / @ operator](https://codechalleng.es/bites/31/)
+- [x] [3.4 - Matrix multiplication / @ operator](https://codechalleng.es/bites/31/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite031)
 - [x] [3.5 - Building a Karma app - implement the User class](https://codechalleng.es/bites/34/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite034)
 - [ ] [3.6 - Write a score property](https://codechalleng.es/bites/85/)
 - [ ] [3.7 - Subclass the list built-in](https://codechalleng.es/bites/158/)

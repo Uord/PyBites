@@ -6,7 +6,7 @@ class Matrix:
         return f'<Matrix values="{self.values}">'
 
     def __matmul__(self, other):
-        if len(self.col) != len(other.row):
+        if len(self.values[0]) != len(other.values):
             raise ValueError("Matrix dimensions do not match")
         return Matrix(
             [
@@ -17,3 +17,10 @@ class Matrix:
                 for A_row in self.values
             ]
         )
+
+    def __rmatmul__(self, other):
+        return self.__matmul__(other)
+
+    def __imatmul__(self, other):
+        self.values = self.__matmul__(other).values
+        return self
