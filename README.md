@@ -55,3 +55,11 @@ My solutions of Python coding challenges (PyBites) at [codechalleng.es](https://
 - [ ] [3.8 - Ninja Rankings](https://codechalleng.es/bites/168/)
 - [ ] [3.9 - Composition, Inheritance, Abstract Base Class, what?](https://codechalleng.es/bites/266/)
 - [ ] [3.10 - Evaluate a Bridge hand](https://codechalleng.es/bites/282/)
+
+### Algorithms
+
+- [x] [1.1 - Rewrtie a for loop using recursion](https://codechalleng.es/bites/37/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite037)
+- [x] [1.2 - Most frequent digit in number](https://codechalleng.es/bites/270/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite270)
+- [ ] [1.3 - Armstrong number](https://codechalleng.es/bites/279/)
+- [x] [2.1 - Palindromes](https://codechalleng.es/bites/9/) [**_Solution_**](https://github.com/Uord/PyBites/tree/master/Bite009)
+
